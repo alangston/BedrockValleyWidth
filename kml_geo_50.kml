@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>kml_geo_50.kml</name>
+	<visibility>0</visibility>
+	<Style>
+		<ListStyle id="hideChildren">
+			<listItemType>checkHideChildren</listItemType>
+			<bgColor>00ffffff</bgColor>
+			<maxSnippetLines>2</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Name>Carte Geologique au 50000e</Name><Description></Description>
+	<NetworkLink>
+		<name>4/7/10.png</name>
+		<Region>
+			<LatLonAltBox>
+				<north>55.7765730186677</north>
+				<south>40.97989806962016</south>
+				<east>0</east>
+				<west>-22.49999999999999</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>http://geoservices.brgm.fr/KML/GEOL_50/4/7/10.kml</href>
+			<viewRefreshMode>onRegion</viewRefreshMode>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>4/8/10.png</name>
+		<Region>
+			<LatLonAltBox>
+				<north>55.7765730186677</north>
+				<south>40.97989806962016</south>
+				<east>22.49999999999999</east>
+				<west>0</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>http://geoservices.brgm.fr/KML/GEOL_50/4/8/10.kml</href>
+			<viewRefreshMode>onRegion</viewRefreshMode>
+		</Link>
+	</NetworkLink>
+</Document>
+</kml>
